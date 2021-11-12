@@ -10,6 +10,7 @@ If no web page is open, [EmptyPage](#EmptyPage) opens
 
 ### EmptyPage
   - Has "Go to" text field (url/google search)
+  - Has "current mixtream" YAML editable multi line text field
   - Lists all key bindings for the platform.
   - Active corners are shown and their command is indicated
 
