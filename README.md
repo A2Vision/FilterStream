@@ -6,7 +6,7 @@ A browser for simultaneous AI assisted viewing of multiple audio, video, webgl w
 
 Current web page takes full screen.
 
-If no web page is open, [EmptyPage](EmptyPage) opens
+If no web page is open, [EmptyPage](#EmptyPage) opens
 
 ### EmptyPage
   - Has "Go to" text field (url/google search)
