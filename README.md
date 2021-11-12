@@ -15,7 +15,6 @@ If no web page is open, [EmptyPage](#EmptyPage) opens
 
 ### Active Corner Commands
 
-#### Per page screen size adjustment
 
 #### Audio switch to next/previous tab
 
@@ -30,12 +29,19 @@ Switches view (but not audio, if audio was separately switched during this sessi
 If page is unlocked allowes user to click on elements of page in tab
 
 
-### Keybinding commands
+### Curation mode commands
+#### Enable/disable audio
+Per page. Pages with disabled audio don't participate in audio source switching
+
 
 #### Select Region of Interest
 
 When pressed, Crop selector is shown on current tab. Its draggable. After confirmation of selection of the region of the webpage, selected region of this tab becomes floating over the foreground tabs (except this one). Selection on this tab stays
  - "Show Region only if UI present is detected" checkbox
+
+#### Per page screen size adjustment
+
+Place screen left right, content is in the middle. Show resize markers when curation mode is enabled
 
 
 
