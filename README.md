@@ -9,9 +9,12 @@ Current web page takes full screen.
 If no web page is open, [EmptyPage](#EmptyPage) opens
 
 ### EmptyPage
+#### HTML
+
   - Has "Go to" text field (url/google search)
   - Has "current mixtream" YAML editable multi line text field
      - saving/sharing/management of the mixtreams
+#### Native
   - Lists all key bindings for the platform.
   - Active corners are shown and their command is indicated
 
