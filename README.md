@@ -14,7 +14,7 @@ If no web page is open, [EmptyPage](#EmptyPage) opens
   - Active corners are shown and their command is indicated
 
 ### Active Corner Commands
-
+#### Enable curation mode
 
 #### Audio switch to next/previous tab
 
