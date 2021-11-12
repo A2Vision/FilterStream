@@ -15,6 +15,8 @@ If no web page is open, [EmptyPage](#EmptyPage) opens
 
 ### Active Corner Commands
 
+#### Per page screen size adjustment
+
 #### Audio switch to next/previous tab
 
 Switches audio source to next/prevous tab
