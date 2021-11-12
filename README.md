@@ -12,7 +12,8 @@ If no web page is open, [EmptyPage](#EmptyPage) opens
 #### HTML
 
   - Has "Go to" text field (url/google search)
-  - Has "current mixtream" YAML editable multi line text field
+  - Lists all key bindings for the platform.
+  - "Scroll down to edit current midstream" Has "current mixtream" YAML editable multi line text field
      - saving/sharing/management of the mixtreams
 #### Native
   - Lists all key bindings for the platform.
