@@ -1,0 +1,4 @@
+- Cardio traning videos. Switches to cherno. Cardio monitor is overlayd
+- Jujitsu with lords of limited card overlay. Emails are being delivered
+- Trap Music with animals with discord popup
+- Jazz music with macOS screensavers, slack notifications 
