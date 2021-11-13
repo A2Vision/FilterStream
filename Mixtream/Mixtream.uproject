@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.0EA",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Mixtream",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Bridge",
