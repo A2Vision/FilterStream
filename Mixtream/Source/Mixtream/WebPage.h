@@ -13,5 +13,7 @@ UCLASS()
 class MIXTREAM_API UWebPage : public UUserWidget
 {
 	GENERATED_BODY()
-	
+public:
+	UWebPage(const FObjectInitializer& ObjectInitializer);
+	virtual void NativeConstruct() override;
 };
