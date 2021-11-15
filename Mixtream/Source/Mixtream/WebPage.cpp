@@ -12,6 +12,9 @@ UWebPage::UWebPage(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)
 {
 	UE_LOG(LogTemp, Display, TEXT("UWebPage::UWebPage"));
+	
+	UE_LOG(LogTemp, Display, TEXT("UWebPage::UWebPage"));
+	UE_LOG(LogTemp, Display, TEXT("UWebPage::UWebPage"));
 
 }
 
